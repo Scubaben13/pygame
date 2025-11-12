@@ -1,0 +1,63 @@
+{
+  "global": {
+    "font_size_score": 98,
+    "font_size_timer": 46,
+    "font_size_label": 47,
+    "target_card_width": 130,
+    "target_card_height": 192,
+    "sequence_card_width": 130,
+    "sequence_card_height": 192,
+    "menu_btn_x": 7,
+    "menu_btn_y": 13
+  },
+  "single": {
+    "score": [
+      404,
+      26
+    ],
+    "timer": [
+      102,
+      142
+    ],
+    "target_label": [
+      359,
+      577
+    ],
+    "target_card_x": 448,
+    "target_card_y": 566,
+    "sequence_card_x": 448,
+    "sequence_card_y": 232
+  },
+  "multi": {
+    "p1_label": [
+      150,
+      528
+    ],
+    "p1_score": [
+      214,
+      59
+    ],
+    "p1_timer": [
+      222,
+      163
+    ],
+    "p1_target_card_x": 150,
+    "p1_target_card_y": 568,
+    "p2_label": [
+      691,
+      524
+    ],
+    "p2_score": [
+      769,
+      56
+    ],
+    "p2_timer": [
+      780,
+      168
+    ],
+    "p2_target_card_x": 694,
+    "p2_target_card_y": 563,
+    "sequence_card_x": 444,
+    "sequence_card_y": 232
+  }
+}
